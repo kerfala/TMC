@@ -1,7 +1,7 @@
 # TMC
 Projet 
 
------ illustration vidéo ----
+----- Vidéo à jouer ----
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
@@ -29,6 +29,7 @@ Avant de commencer notre implémentation, nous allons mettre en place des config
 
 ##### Boot réseau du Raspberrry
                                                        ----- Vidéo à jouer----
+[![Watch the video](https://www.youtube.com/watch?v=iz_PlsQWNso)]https://www.youtube.com/watch?v=iz_PlsQWNso
 
 ##### Configuration du point d’accès Raspberry
 
@@ -39,7 +40,7 @@ Nous avons commencer par  installer et configurer le hostapd et le dnsmasq
 Après installation, nous pouvons observer le résultat suivant:
 ![Test Image 1](images/statushostapd.png)
 
-
+[![Watch the video](https://www.youtube.com/watch?v=qtnUNwkwU_8&feature=youtu.be)] https://www.youtube.com/watch?v=qtnUNwkwU_8&feature=youtu.be
 I.3. Configuration du Serveur Mosquitto 
 
 ![Test Image 3](images/statusmosquitto.png)
@@ -51,16 +52,10 @@ I.4.  Test de Fonctionnement de notre serveur
 
 
 
-
-
-
-
-
-
-
-
 ### Generation de certificat/ clées ECC.
-En ce qui concerne la configuration des 
+En ce qui concerne la configuration des certificats, ils sont été tous déployés au niveau les rapberry et la configuration du 
+dns raspberry.com au niveau de la raspiberry.
+
 
 
 ### Installation de Mongoose OS
@@ -86,6 +81,11 @@ Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 ![Test Image 2](images/loraclient.png)
 
  ----illustration vidéo ----
+
+
+Enfin sur lora pour permettre au raspberry pi de reprendre la main, il nous a fallu commenter une ligne du rf95_client:rf95_.waitPacketSent(), Ce
+qui a permis de rendre non bloquant  quand nous lancer un client rf95.
+
 
 
 
