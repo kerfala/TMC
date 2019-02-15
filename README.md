@@ -2,8 +2,6 @@
 Projet 
 
 
----[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-
 Objectif du Projet:
 
 Le but du projet est de créer un réseau de capteurs  par Wifi vers un concentrateur .
@@ -38,7 +36,7 @@ Nous avons commencer par  installer et configurer le hostapd et le dnsmasq
 Après installation, nous pouvons observer le résultat suivant:
 ![Test Image 1](images/statushostapd.png)
 
-[![Watch the video] https://www.youtube.com/watch?v=qtnUNwkwU_8&feature=youtu.be
+[![Watch the video] https://www.youtube.com/watch?v=qtnUNwkwU_8&feature=youtu.be <br\>
 Configuration du Serveur Mosquitto 
 
 ![Test Image 3](images/statusmosquitto.png)
