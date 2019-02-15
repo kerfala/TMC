@@ -25,23 +25,24 @@ Avant de commencer notre implémentation, nous allons mettre en place des config
 
 
 
-I . RASPBERRY & WIFI
+### RASPBERRY & WIFI
 
-I.1. Boot réseau du Raspberrry
+##### Boot réseau du Raspberrry
                                                        ----- Vidéo à placer  par ici----
 
-I.2. Configuration du point d’accès Raspberry
+##### Configuration du point d’accès Raspberry
 
 Nous avons commencer par  installer et configurer le hostapd et le dnsmasq
 
 
 
 Après installation, nous pouvons observer le résultat suivant:
-![Test Image 1](statushostapd.png)
+![Test Image 1](images/statushostapd.png)
 
 
 I.3. Configuration du Serveur Mosquitto 
 
+![Test Image 3](images/statusmosquitto.png)
 Pour la communication entre nos ESP8266 et notre Concentrateur ( Raspberry) nous avons configurer le serveur Mosquitto sur notre Raspberry.
 I.4.  Test de Fonctionnement de notre serveur
 
@@ -58,18 +59,21 @@ I.4.  Test de Fonctionnement de notre serveur
 
 
 
-II.1. Generation de certificat/ clées ECC.
+### Generation de certificat/ clées ECC.
 
 
 
-II.3. Installation de Mongoose OS
+### Installation de Mongoose OS
+
+![Test Image 2](images/mongoose.png)
+
 
 Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 
-II.3. Extrait du fichier de Configuration  Lora
+### Extrait du fichier de Configuration  Lora
 
 
-II.3. Communication de Lora Client
+### Communication de Lora Client
 
 
 
