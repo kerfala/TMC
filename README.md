@@ -26,7 +26,7 @@ Avant de commencer notre implémentation, nous allons mettre en place des config
 
 ##### Boot réseau du Raspberrry
 
-![Watch the video][(https://www.youtube.com/watch?v=iz_PlsQWNso)]https://www.youtube.com/watch?v=iz_PlsQWNso
+![Watch the video] https://www.youtube.com/watch?v=iz_PlsQWNso
 
 ##### Configuration du point d’accès Raspberry
 
