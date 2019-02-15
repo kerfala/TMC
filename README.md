@@ -1,7 +1,7 @@
 # TMC
 Projet 
 
-Illustration de la construction de la video
+----illustration vidéo:
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
@@ -60,20 +60,35 @@ I.4.  Test de Fonctionnement de notre serveur
 
 
 ### Generation de certificat/ clées ECC.
-
+En ce qui concerne la configuration des 
 
 
 ### Installation de Mongoose OS
 
 ![Test Image 2](images/mongoose.png)
 
-
+1. Connexion au mongoose os  au point d'accès 
 Nous avons installer Mongoose OS pour l’utilisation de MQTT.
+
+
 
 ### Extrait du fichier de Configuration  Lora
 
 
 ### Communication de Lora Client
+
+* Dans un premier temps nous fais un test minimal entre un client rf95 et rf95 serveur Hi Raspi
+----illustration vidéo:
+
+*Puis nous avons modifier le programme afin de lui passer en paramètre le message du client rf95 (le but était de lancer un programme depuis un programme python)
+** modification rf95_client
+
+![Test Image 2](images/loraclient.png)
+
+ ----illustration vidéo:
+
+
+
 
 
 
