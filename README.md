@@ -1,7 +1,7 @@
 # TMC
 Projet 
 
-----illustration vidéo:
+----illustration vidéo ----
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
@@ -28,7 +28,7 @@ Avant de commencer notre implémentation, nous allons mettre en place des config
 ### RASPBERRY & WIFI
 
 ##### Boot réseau du Raspberrry
-                                                       ----- Vidéo à placer  par ici----
+                                                       ----- Vidéo à jouer----
 
 ##### Configuration du point d’accès Raspberry
 
@@ -85,7 +85,7 @@ Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 
 ![Test Image 2](images/loraclient.png)
 
- ----illustration vidéo:
+ ----illustration vidéo ----
 
 
 
