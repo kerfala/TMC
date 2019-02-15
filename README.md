@@ -36,8 +36,8 @@ Nous avons commencer par  installer et configurer le hostapd et le dnsmasq
 Après installation, nous pouvons observer le résultat suivant:
 ![Test Image 1](images/statushostapd.png)
 
-[![Watch the video] https://www.youtube.com/watch?v=qtnUNwkwU_8&feature=youtu.be <br/>
-Configuration du Serveur Mosquitto 
+[![Watch the video] https://www.youtube.com/watch?v=qtnUNwkwU_8&feature=youtu.be
+##### Configuration du Serveur Mosquitto 
 
 ![Test Image 3](images/statusmosquitto.png)
 Pour la communication entre nos ESP8266 et notre Concentrateur ( Raspberry) nous avons configurer le serveur Mosquitto sur notre Raspberry.
