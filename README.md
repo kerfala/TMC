@@ -1,7 +1,6 @@
 # TMC
 Projet 
 
------ Vidéo à jouer ----
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
@@ -28,7 +27,6 @@ Avant de commencer notre implémentation, nous allons mettre en place des config
 ### RASPBERRY & WIFI
 
 ##### Boot réseau du Raspberrry
-                                                       ----- Vidéo à jouer----
 [![Watch the video](https://www.youtube.com/watch?v=iz_PlsQWNso)]https://www.youtube.com/watch?v=iz_PlsQWNso
 
 ##### Configuration du point d’accès Raspberry
