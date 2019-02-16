@@ -81,6 +81,9 @@ Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 ![Test Image 2](images/loraclient.png)
 
  ----illustration vidéo ----
+ [![Watch the video] https://www.youtube.com/watch?v=Un93u1NW4S4
+ 
+ [![Watch the video] https://www.youtube.com/watch?v=ZO_I7UC7ttU
 
 
 Enfin sur lora pour permettre au raspberry pi de reprendre la main, il nous a fallu commenter une ligne du rf95_client:rf95_.waitPacketSent(), Ce
