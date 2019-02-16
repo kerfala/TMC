@@ -16,6 +16,12 @@ Avant de commencer notre implémentation, nous allons mettre en place des config
 
 
 
+
+
+
+
+
+
 ### RASPBERRY & WIFI
 
 ##### Boot réseau du Raspberrry
@@ -38,13 +44,8 @@ Après installation, nous pouvons observer le résultat suivant:
 ##### Configuration du Serveur Mosquitto 
 
 ![Test Image 3](images/statusmosquitto.png)
-
-
-###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=gc_dxns9FkI
 Pour la communication entre nos ESP8266 et notre Concentrateur ( Raspberry) nous avons configurer le serveur Mosquitto sur notre Raspberry.
 Test de Fonctionnement de notre serveur
-
-
 
 
 
@@ -56,7 +57,6 @@ En ce qui concerne la configuration des certificats, ils sont été tous déploy
 dns raspberry.com au niveau de la raspiberry.
 
 
-###### Visitez la vidéo par ici https://www.youtube.com/watch?v=zC5e0fwHNBk
 
 ### Installation de Mongoose OS
 
@@ -100,7 +100,31 @@ qui a permis de rendre non bloquant  quand nous lancer un client rf95.
 
 
 
-### Conclusion: 
-En ce qui concerne  
+
+
+Au cours de notre projet, nous avons eu a configurer les deux Raspberry en commencant par le Boot réseau,ensuite la configuration du point d'accès, après nous avons configurer et tester le serveur Mosquitto. Par la suite, nous avons fait une génération de certificats/clés. Après l'installation de Mongoose OS, nous avons configurer et tester la communication Lora entre nos composants.
+Dans la réalisation de ce projet, nous avons eu à faire face à certaines difficultés telles que des erreurs de type TCP 0 avec le Mosquitto et avec le chiffrement AES.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rf95_.waitPacketSent() // Il fallit le debloquer pour rendre la main à la Raspi vcar au départ il prenait    
 
 
