@@ -38,8 +38,13 @@ Après installation, nous pouvons observer le résultat suivant:
 ##### Configuration du Serveur Mosquitto 
 
 ![Test Image 3](images/statusmosquitto.png)
+
+
+###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=gc_dxns9FkI
 Pour la communication entre nos ESP8266 et notre Concentrateur ( Raspberry) nous avons configurer le serveur Mosquitto sur notre Raspberry.
 Test de Fonctionnement de notre serveur
+
+
 
 
 
