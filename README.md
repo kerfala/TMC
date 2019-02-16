@@ -1,7 +1,6 @@
 # TMC
-Projet 
-#########IoT,LoRa,WiFi,MQTT,SSL,ATECC508,MongooseOS,RaspberryPi&ESP826
 
+Projet 
 
 
 
