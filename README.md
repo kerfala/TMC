@@ -56,6 +56,7 @@ En ce qui concerne la configuration des certificats, ils sont été tous déploy
 dns raspberry.com au niveau de la raspiberry.
 
 
+###### Visitez la vidéo par ici https://www.youtube.com/watch?v=zC5e0fwHNBk
 
 ### Installation de Mongoose OS
 
