@@ -43,7 +43,7 @@ Avant de commencer notre implémentation, nous allons mettre en place des config
 
 ###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=iz_PlsQWNso
 
-###### Visitez la vidéo par ici    https://www.youtube.com/watch?v=iz_PlsQWNso
+
 
 
 ##### Configuration du point d’accès Raspberry
