@@ -81,10 +81,10 @@ Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 
 ### Communication de Lora Client
 
-* Dans un premier temps nous fais un test minimal entre un client rf95 et rf95 serveur Hi Raspi
+ Dans un premier temps nous fais un test minimal entre un client rf95 et rf95 serveur Hi Raspi
 
 
-*Puis nous avons modifier le programme afin de lui passer en paramètre le message du client rf95 (le but était de lancer un programme depuis un programme python)
+Puis nous avons modifier le programme afin de lui passer en paramètre le message du client rf95 (le but était de lancer un programme depuis un programme python)
 ** modification rf95_client
 
 ![Test Image 2](images/loraclient.png)
@@ -105,7 +105,7 @@ qui a permis de rendre non bloquant  quand nous lancer un client rf95.
 
 ###### Boot réseau vidéo minimal https://www.youtube.com/watch?v=NkcdF9-5OqM
 
-###### plus vidéos https://www.youtube.com/channel/UCLv2kigcN8sjZVwp54ENfPQ?view_as=subscriber   ou https://www.youtube.com/channel/UC9ky_furpBh7A7RbglnTdGQ
+###### Plus vidéos https://www.youtube.com/channel/UCLv2kigcN8sjZVwp54ENfPQ?view_as=subscriber   ou https://www.youtube.com/channel/UC9ky_furpBh7A7RbglnTdGQ
 
 
 
