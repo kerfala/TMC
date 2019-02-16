@@ -118,6 +118,7 @@ qui a permis de rendre non bloquant  quand nous lancer un client rf95.
 
 ### Videos 
 ###### Connexion ssh raspberry https://www.youtube.com/watch?v=_0euIxANTgU
+###### hostapd https://www.youtube.com/watch?v=qtnUNwkwU_8
 ###### Test minimal mosquitto https://www.youtube.com/watch?v=gc_dxns9FkI
 
 ###### Boot réseau vidéo minimal https://www.youtube.com/watch?v=NkcdF9-5OqM
