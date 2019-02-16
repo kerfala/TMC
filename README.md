@@ -72,7 +72,7 @@ dns raspberry.com au niveau de la raspiberry.
 ![Test Image 2](images/mongoose.png)
 
 1. Connexion au mongoose os  au point d'accès 
-![Test Image 4](images/img1.PNG)
+![Test Image 4](images/imge1.PNG)
 
 2. Autre teste sur le point d'accès.
 ![Test Image 5](images/Connexion au Wifi.PNG)
