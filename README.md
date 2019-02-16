@@ -134,7 +134,6 @@ Dans la réalisation de ce projet, nous avons eu à faire face à certaines diff
 
 
 
-
-rf95_.waitPacketSent() // Il fallit le debloquer pour rendre la main à la Raspi vcar au départ il prenait    
+   
 
 
