@@ -1,15 +1,18 @@
 # TMC
 
---------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------
-                              Réalisé par: Camara Kerfala && Bekale Onzala Leinayck
---------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------
-                                   PROJET: Terminaux Mobiles Communicants 
-                     IoT, LoRa, WiFi, MQTT, SSL, ATECC508, Mongoose OS, Raspberry Pi & ESP8266
-                                       Encadré : Pierre-François Bonnefoi
---------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------
+***********************************************************************************************************************
+***********************************************************************************************************************
+Réalisé par: Camara Kerfala && Bekale Onzala Leinayck
+***********************************************************************************************************************
+***********************************************************************************************************************
+
+***********************************************************************************************************************
+***********************************************************************************************************************
+PROJET: Terminaux Mobiles Communicants 
+IoT, LoRa, WiFi, MQTT, SSL, ATECC508, Mongoose OS, Raspberry Pi & ESP8266
+Encadré : Pierre-François Bonnefoi
+***********************************************************************************************************************
+***********************************************************************************************************************
 Projet 
 
 
@@ -20,10 +23,10 @@ Objectif du Projet:
 
 Le but du projet est de créer un réseau de capteurs  par Wifi vers un concentrateur .
 Nous utiliserons le protocole MQTT pour remonter des mesures vers le concentrateur au travers d’une connexion Wifi.
-Dans notre  projet, nous utiliserons de ESP8266 qui joueront le rôle de capteurs et des Raspberry ui joueront le rôle de Concentrateur.  Ces ESP8266 sont munis d’une Wemos.
+Dans notre  projet, nous utiliserons deux ESP8266 qui joueront le rôle de capteurs et deux Raspberry qui joueront le rôle de Concentrateurs.  Ces ESP8266 sont munis d’un Wemos.
 Chaque capteur utilise la cryptographie à courbes elliptiques pour assurer l’authentification du serveur lors de la connexion SSL et l’authentification client auprès du serveur MQTT.
 
-Pour programmer le  système ESP8266et exploiter le composant ATEC C508A, nous allons utiliser le framwork Mongoose OS.o
+Pour programmer le  système ESP8266 et exploiter les composants ATEC C508A, nous utiliserons le framwork Mongoose OS.
 Avant de commencer notre implémentation, nous allons mettre en place des configurations de bases.
 
 
@@ -72,8 +75,7 @@ Test de Fonctionnement de notre serveur
 
 
 ### Generation de certificat/ clées ECC.
-En ce qui concerne la configuration des certificats, ils sont été tous déployés au niveau les rapberry et la configuration du 
-dns raspberry.com au niveau de la raspiberry.
+La génération des certificats et la configuration du dns raspberry.com s'est effectuée au niveau de la Raspberry.
 
 
 
