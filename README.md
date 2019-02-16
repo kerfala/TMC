@@ -16,12 +16,6 @@ Avant de commencer notre implémentation, nous allons mettre en place des config
 
 
 
-
-
-
-
-
-
 ### RASPBERRY & WIFI
 
 ##### Boot réseau du Raspberrry
@@ -100,30 +94,7 @@ qui a permis de rendre non bloquant  quand nous lancer un client rf95.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-rf95_.waitPacketSent() // Il fallit le debloquer pour rendre la main à la Raspi vcar au départ il prenait    
+### Conclusion: 
+En ce qui concerne  
 
 
