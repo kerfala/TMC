@@ -42,9 +42,13 @@ Nous avons commencer par  installer et configurer le hostapd et le dnsmasq
 
 
 Après installation, nous pouvons observer le résultat suivant:
-![Test Image 1](images/statushostapd.png)
 
-[![Watch the video] https://www.youtube.com/watch?v=qtnUNwkwU_8&feature=youtu.be
+######  Image 1  (images/statushostapd.png)
+
+
+###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=qtnUNwkwU_8&feature=youtu.be
+
+
 ##### Configuration du Serveur Mosquitto 
 
 ![Test Image 3](images/statusmosquitto.png)
