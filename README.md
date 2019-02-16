@@ -67,7 +67,6 @@ Après installation, nous pouvons observer le résultat suivant:
 
 ![Test Image 3](images/statusmosquitto.png)
 Pour la communication entre nos ESP8266 et notre Concentrateur ( Raspberry) nous avons configurer le serveur Mosquitto sur notre Raspberry.
-Test de Fonctionnement de notre serveur
 
 
 
@@ -83,7 +82,7 @@ La génération des certificats et la configuration du dns raspberry.com s'est e
 
 ![Test Image 2](images/mongoose.png)
 
-1. Connexion au mongoose os  au point d'accès 
+1. Connexion du Mongoose OS  au point d'accès.
 ![Test Image 4](images/imge1.PNG)
 
 2. Autre teste sur le point d'accès.
@@ -98,11 +97,11 @@ Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 
 ### Communication de Lora Client
 
- Dans un premier temps nous fais un test minimal entre un client rf95 et rf95 serveur Hi Raspi
+ Dans un premier temps , nous avons fais un test minimal entre un rf95_client  et rf95_serveur Hi Raspi!
 
 
-Puis nous avons modifier le programme afin de lui passer en paramètre le message du client rf95 (le but était de lancer un programme depuis un programme python)
-** modification rf95_client
+Puis, nous avons modifier le programme afin de lui passer en paramètre le message du rf95_client (le but était de lancer un programme depuis un programme python).
+** Modification rf95_client
 
 ![Test Image 2](images/loraclient.png)
 #### Test lora 
@@ -112,13 +111,11 @@ Puis nous avons modifier le programme afin de lui passer en paramètre le messag
 ###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=ZO_I7UC7ttU
 
 
-Enfin sur lora pour permettre au raspberry pi de reprendre la main, il nous a fallu commenter une ligne du rf95_client:rf95_.waitPacketSent(), Ce
-qui a permis de rendre non bloquant  quand nous lancer un client rf95.
+Enfin au niveau de Lora, pour permettre au Raspberry pi de reprendre la main, il nous a fallut commenter une ligne du rf95_client:rf95_.waitPacketSent(), Ce qui a permis de rendre non bloquant le Raspberry lors du l'execution  d'un rf95_client .
 
 
 ### Videos 
 ###### Connexion ssh raspberry https://www.youtube.com/watch?v=_0euIxANTgU
-###### hostapd https://www.youtube.com/watch?v=qtnUNwkwU_8
 ###### Test minimal mosquitto https://www.youtube.com/watch?v=gc_dxns9FkI
 
 ###### Boot réseau vidéo minimal https://www.youtube.com/watch?v=NkcdF9-5OqM
