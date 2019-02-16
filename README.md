@@ -1,5 +1,10 @@
 # TMC
 Projet 
+#########IoT,LoRa,WiFi,MQTT,SSL,ATECC508,MongooseOS,RaspberryPi&ESP826
+
+
+
+
 
 
 Objectif du Projet:
@@ -73,7 +78,7 @@ Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 ### Communication de Lora Client
 
 * Dans un premier temps nous fais un test minimal entre un client rf95 et rf95 serveur Hi Raspi
-----illustration vidéo:
+
 
 *Puis nous avons modifier le programme afin de lui passer en paramètre le message du client rf95 (le but était de lancer un programme depuis un programme python)
 ** modification rf95_client
@@ -103,6 +108,7 @@ qui a permis de rendre non bloquant  quand nous lancer un client rf95.
 
 
 Au cours de notre projet, nous avons eu a configurer les deux Raspberry en commencant par le Boot réseau,ensuite la configuration du point d'accès, après nous avons configurer et tester le serveur Mosquitto. Par la suite, nous avons fait une génération de certificats/clés. Après l'installation de Mongoose OS, nous avons configurer et tester la communication Lora entre nos composants.
+Nous avons fait la résolution du DNS  sur le Raspi pour le CN du certificat qui est utiliser dans le fichier manifest du Mongoose OS
 Dans la réalisation de ce projet, nous avons eu à faire face à certaines difficultés telles que des erreurs de type TCP 0 avec le Mosquitto et avec le chiffrement AES.
 
 
