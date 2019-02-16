@@ -8,9 +8,9 @@ Réalisé par: Camara Kerfala && Bekale Onzala Leinayck
 
 ***********************************************************************************************************************
 ***********************************************************************************************************************
-                                        PROJET: Terminaux Mobiles Communicants 
-                               IoT, LoRa, WiFi, MQTT, SSL, ATECC508, Mongoose OS, Raspberry Pi & ESP8266
-                                           Encadré : Pierre-François Bonnefoi
+PROJET: Terminaux Mobiles Communicants 
+IoT, LoRa, WiFi, MQTT, SSL, ATECC508, Mongoose OS, Raspberry Pi & ESP8266
+Encadré : Pierre-François Bonnefoi
 ***********************************************************************************************************************
 ***********************************************************************************************************************
 Projet 
