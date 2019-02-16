@@ -75,7 +75,7 @@ dns raspberry.com au niveau de la raspiberry.
 ![Test Image 4](images/imge1.PNG)
 
 2. Autre teste sur le point d'accès.
-![Test Image 5](images/Connexion au Wifi.PNG)
+![Test Image 5](images/Connexion_Wifi.PNG)
 
 Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 
