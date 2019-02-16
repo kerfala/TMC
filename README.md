@@ -96,6 +96,8 @@ qui a permis de rendre non bloquant  quand nous lancer un client rf95.
 
 ###### Boot réseau vidéo minimal https://www.youtube.com/watch?v=NkcdF9-5OqM
 
+###### plus vidéos https://www.youtube.com/channel/UCLv2kigcN8sjZVwp54ENfPQ?view_as=subscriber   ou https://www.youtube.com/channel/UC9ky_furpBh7A7RbglnTdGQ
+
 
 
 
