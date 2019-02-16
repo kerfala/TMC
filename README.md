@@ -43,7 +43,8 @@ Nous avons commencer par  installer et configurer le hostapd et le dnsmasq
 
 Après installation, nous pouvons observer le résultat suivant:
 
-######  Image 1  (images/statushostapd.png)
+
+![Test Image 1](images/statushostapd.png)
 
 
 ###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=qtnUNwkwU_8&feature=youtu.be
