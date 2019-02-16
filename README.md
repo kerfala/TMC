@@ -26,7 +26,7 @@ Avant de commencer notre implémentation, nous allons mettre en place des config
 
 ##### Boot réseau du Raspberrry
 
-[![Watch the video] https://www.youtube.com/watch?v=iz_PlsQWNso
+###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=iz_PlsQWNso
 
 ###### Visitez la vidéo par ici    https://www.youtube.com/watch?v=iz_PlsQWNso
 
@@ -81,14 +81,20 @@ Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 ![Test Image 2](images/loraclient.png)
 
  ----illustration vidéo ----
- [![Watch the video] https://www.youtube.com/watch?v=Un93u1NW4S4
+###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=Un93u1NW4S4
  
- [![Watch the video] https://www.youtube.com/watch?v=ZO_I7UC7ttU
+###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=ZO_I7UC7ttU
 
 
 Enfin sur lora pour permettre au raspberry pi de reprendre la main, il nous a fallu commenter une ligne du rf95_client:rf95_.waitPacketSent(), Ce
 qui a permis de rendre non bloquant  quand nous lancer un client rf95.
 
+
+### Videos 
+###### Connexion ssh raspberry https://www.youtube.com/watch?v=_0euIxANTgU
+###### Test minimal mosquitto https://www.youtube.com/watch?v=gc_dxns9FkI
+
+###### Boot réseau vidéo minimal https://www.youtube.com/watch?v=NkcdF9-5OqM
 
 
 
