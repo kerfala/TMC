@@ -79,8 +79,8 @@ Nous avons installer Mongoose OS pour l’utilisation de MQTT.
 ** modification rf95_client
 
 ![Test Image 2](images/loraclient.png)
-
- ----illustration vidéo ----
+#### Test lora 
+![Test Image 2](images/loratest.png)
 ###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=Un93u1NW4S4
  
 ###### Visitez la vidéo par ici  https://www.youtube.com/watch?v=ZO_I7UC7ttU
